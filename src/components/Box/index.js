@@ -7,7 +7,7 @@ const Box = styled.div`
   margin-bottom: 10px;
   padding: 16px;
 
-  .boxLink {
+  .boxLink { 
       font-size: 14px;
       color: #2E7884;
       text-decoration: none;
